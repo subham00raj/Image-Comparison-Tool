@@ -1,0 +1,5 @@
+{
+  "name": "Image Difference Checker",
+  "description": "An AI-powered image comparison tool that allows users to upload two images and visually identify the differences. It offers multiple comparison modes like slider, onion skin, and an AI-generated difference highlight view.",
+  "requestFramePermissions": []
+}
